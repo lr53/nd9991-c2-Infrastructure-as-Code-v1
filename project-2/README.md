@@ -12,7 +12,7 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 The infrastucture can be seen in the diagram below
 
-![alt text](https://github.com/lr53/nd9991-c2-Infrastructure-as-Code-v1/project-2/img.png)
+![alt text](https://github.com/lr53/nd9991-c2-Infrastructure-as-Code-v1/blob/master/project-2/img.png)
 
 ### How to run
 #### Create Stack
