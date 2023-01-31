@@ -22,6 +22,8 @@ The infrastucture can be seen in the diagram below
 ```
 #### Update Stack
 ```
-./update.sh <stack name> network.yml network-parameters.json
+./update.sh <stack name> network.yml network-parameters.jsoncd project-2
 ./update.sh <stack name2> servers.yml server-parameters.json
 ```
+
+[link to project](http://proje-webap-1qfmahdb17trc-1400791864.us-east-1.elb.amazonaws.com/)
